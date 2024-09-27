@@ -29,8 +29,8 @@ from ipywidgets import interact
 
 matplotlib.rcParams['figure.figsize'] = [12,8]
 matplotlib.rcParams['font.size'] = 18
-matplotlib.rcParams['mathtext.fontset'] = 'custom'
-matplotlib.rcParams['mathtext.bf'] = 'Dejavu Sans:italic:bold'
+# matplotlib.rcParams['mathtext.fontset'] = 'custom'
+# matplotlib.rcParams['mathtext.bf'] = 'Dejavu Sans:italic:bold'
 
 
 M = {}
